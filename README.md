@@ -1,8 +1,6 @@
 # AMOLED Anime Theme — OneShot
 
-An AMOLED (true black) Discord theme featuring Niko from the game **OneShot** by wiwiichan.
-
-![Preview](previewUrl.jpg)
+An AMOLED (true black) Discord theme featuring Niko from the game **OneShot** by Didis2000 forked from wiwiichan.
 
 ## Palette
 
@@ -36,5 +34,5 @@ An AMOLED (true black) Discord theme featuring Niko from the game **OneShot** by
 
 ## Credits
 
-- **Author**: wiwiichan
+- **Author**: Didis2000
 - **Game**: OneShot by Future Cat LLC / Little Cat Feet
