@@ -12,97 +12,97 @@
       "#000000"
     ],
     "BACKGROUND_ACCENT": [
-      "#121212"
+      "#16091b"
     ],
     "BACKGROUND_SECONDARY": [
       "#000000"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#121212"
+      "#230d3b"
     ],
     "DIVIDER_STRONG": [
       "#000000"
     ],
     "DIVIDER_SUBTLE": [
-      "#000000"
+      "#16091b"
     ],
     "BORDER_SUBTLE": [
-      "#000000"
+      "#230d3b"
     ],
     "SPINE_DEFAULT": [
-      "#000000"
+      "#230d3b"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
-      "#121212"
+      "#16091b"
     ],
     "SPOILER_REVEALED_BACKGROUND": [
-      "#121212"
+      "#230d3b"
     ],
     "STAGE_CARD_PILL_BG": [
-      "#000000"
+      "#16091b"
     ],
     "STATUS_DANGER": [
-      "#000000"
+      "#fc1c34"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#000000"
+      "#fc1c34"
     ],
     "STATUS_DANGER_TEXT": [
       "#FFFFFF"
     ],
     "STATUS_DND": [
-      "#ff6161"
+      "#fc1c34"
     ],
     "STATUS_IDLE": [
-      "#ffbc5b"
+      "#d4a54a"
     ],
     "STATUS_OFFLINE": [
-      "#202020"
+      "#230d3b"
     ],
     "STATUS_ONLINE": [
       "#48bc46"
     ],
     "STATUS_POSITIVE": [
-      "#000000"
+      "#93b628"
     ],
     "STATUS_POSITIVE_BACKGROUND": [
-      "#000000"
+      "#93b628"
     ],
     "STATUS_POSITIVE_TEXT": [
-      "#FFFFFF"
+      "#000000"
     ],
     "STATUS_SPEAKING": [
-      "#000000"
+      "#9324af"
     ],
     "STATUS_WARNING": [
-      "#FFFFFF"
+      "#d4a54a"
     ],
     "STATUS_WARNING_BACKGROUND": [
-      "#000000"
+      "#230d3b"
     ],
     "STATUS_WARNING_TEXT": [
       "#FFFFFF"
     ],
     "TEXT_BRAND": [
-      "#FFFFFF"
+      "#9324af"
     ],
     "TEXT_DANGER": [
-      "#FFFFFF"
+      "#fc1c34"
     ],
     "TEXT_LINK": [
-      "#009AFF"
+      "#3a59ff"
     ],
     "TEXT_LINK_LOW_SATURATION": [
       "#6d82ff"
     ],
     "TEXT_LOW_CONTRAST": [
-      "#FFFFFF"
+      "#a084b0"
     ],
     "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
-      "#FFFFFF"
+      "#a084b0"
     ],
     "TEXT_MUTED": [
-      "#7f7f7f"
+      "#7a5a8a"
     ],
     "TEXT_MUTED_ON_DEFAULT": [
       "#FFFFFF"
@@ -111,28 +111,28 @@
       "#FFFFFF"
     ],
     "TEXT_POSITIVE": [
-      "#FFFFFF"
+      "#93b628"
     ],
     "TEXT_PRIMARY": [
       "#FFFFFF"
     ],
     "TEXT_SECONDARY": [
-      "#FFFFFF"
+      "#d4c4e0"
     ],
     "TEXT_WARNING": [
-      "#FFFFFF"
+      "#d4a54a"
     ],
     "THEME_LOCKED_BLUR_FALLBACK": [
       "#000000"
     ],
     "THREAD_CHANNEL_SPINE": [
-      "#FFFFFF"
+      "#230d3b"
     ],
     "TOAST_BG": [
-      "#000000"
+      "#16091b"
     ],
     "TYPING_INDICATOR_BG": [
-      "#000000"
+      "#16091b"
     ],
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
       "#000000"
@@ -147,45 +147,45 @@
       "#FFFFFF"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#FFFFFF"
+      "#9324af"
     ],
     "SCROLLBAR_THIN_TRACK": [
       "#000000"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#FFFFFF"
+      "#9324af"
     ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#000000"
+      "#16091b"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#000000"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "#FFFFFF"
+      "#230d3b"
     ],
     "REDESIGN_INPUT_CONTROL_SELECTED": [
-      "#36393E"
+      "#9324af"
     ],
     "INTERACTIVE_MUTED": [
-      "#121212"
+      "#7a5a8a"
     ],
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "#000000"
+      "#16091b"
     ],
     "MENTION_BADGE": [
-      "#ff6161"
+      "#9324af"
     ],
     "REDESIGN_MENTION_BADGE": [
-      "#ff6161"
+      "#9324af"
     ]
   },
   "rawColors": {
     "BLACK_500": "#00000050",
-    "BRAND_260": "#FFFFFF",
-    "BRAND_360": "#FFFFFF",
+    "BRAND_260": "#d4c4e0",
+    "BRAND_360": "#d4c4e0",
     "BRAND_560": "#000000",
-    "BRAND_500": "#121212",
+    "BRAND_500": "#9324af",
     "ORANGE_260": "#FFFFFF",
     "ORANGE_300": "#FFFFFF",
     "ORANGE_330": "#FFFFFF",
@@ -216,9 +216,9 @@
     "YELLOW_630": "#FFFFFF",
     "YELLOW_660": "#FFFFFF",
     "YELLOW_700": "#FFFFFF",
-    "RED_430": "#009AFF",
-    "PLUM_14": "#222222",
-    "PRIMARY_800": "#222222",
+    "RED_430": "#3a59ff",
+    "PLUM_14": "#16091b",
+    "PRIMARY_800": "#16091b",
     "PLUM_1": "#FFFFFF",
     "PLUM_22": "#000000",
     "PRIMARY_660": "#000000",
@@ -226,7 +226,7 @@
     "PRIMARY_560": "#000000",
     "PRIMARY_600": "#000000",
     "PRIMARY_630": "#000000",
-    "PLUM_15": "#121212",
+    "PLUM_15": "#230d3b",
     "PLUM_17": "#000000",
     "PLUM_18": "#000000",
     "PLUM_19": "#000000",
